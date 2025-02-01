@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetigaikwad22&label=Profile%20views&color=0e75b6&style=flat" alt="preetigaikwad22" /> </p>
 
 - 🌱 I’m currently learning **Java, Spring Boot, Hibernate, REST APIs, and Microservices**  
-- 💻 Exploring **AI Integration, OpenAI API, and Docker**  
-- 💬 Ask me about **Java, JavaScript, Docker, AI-powered Discord bots, and API development**  
+- 💻 Exploring **AI Integration, OpenAI API, AWS, Kafka**  
+- 💬 Ask me about **Java, JavaScript, MERN Stack, SQL, Docker, AI-powered Discord bots, and API development**  
 - 📫 How to reach me **preeti2292003@gmail.com**  
 - **⚡ I’m always on the lookout for new ways to combine technology and creativity—whether it's building apps or creating AI-powered projects.**  
 
