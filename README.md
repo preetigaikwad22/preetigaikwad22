@@ -9,7 +9,7 @@
 - 💻 Exploring **AI Integration, OpenAI API, and Docker**  
 - 💬 Ask me about **Java, JavaScript, Docker, AI-powered Discord bots, and API development**  
 - 📫 How to reach me **preeti2292003@gmail.com**  
-- **⚡ Fun fact: I’m always on the lookout for new ways to combine technology and creativity—whether it's building apps or creating AI-powered projects.**  
+- **⚡ I’m always on the lookout for new ways to combine technology and creativity—whether it's building apps or creating AI-powered projects.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
